@@ -1,30 +1,30 @@
 
-function add() {
+function add(a,b) {
   return a + b;
 }
 
-function subtract() {
+function subtract(a,b) {
   return a - b;
 }
 
-function multiply() {
+function multiply(a,b) {
   return a * b;
 }
 
-function divide() {
+function divide(a,b) {
   return a / b;
 }
 
 function inc(n) {
-  return a++;
+  return n++;
 }
 
 function dec(n) {
-  return a--;
+  return n--;
 }
 
 function makeInt(n) {
-  return parseInt(a);
+  return parseInt(n);
 }
 
 function makeInt(a){ 
