@@ -1,4 +1,3 @@
-require('test/index-test.js');
 
 function add() {
   return a + b;
